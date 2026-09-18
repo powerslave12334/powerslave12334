@@ -64,8 +64,8 @@ Mi objetivo es simple: escribir código limpio, construir software confiable y c
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=powerslave12334&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=C9D1D9&icon_color=F59E0B&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=powerslave12334&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=C9D1D9&langs_count=6" width="48%" />
+  <img src="https://github-readme-stats2.vercel.app/api?username=powerslave12334&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=C9D1D9&icon_color=F59E0B&count_private=true" width="48%" />
+  <img src="https://github-readme-stats2.vercel.app/api/top-langs/?username=powerslave12334&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=C9D1D9&langs_count=6" width="48%" />
 </p>
 
 <p align="center">

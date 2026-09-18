@@ -8,7 +8,7 @@
 
 Desarrollador y Auxiliar de Sistemas con experiencia en soporte tecnico, desarrollo de software y administracion de infraestructura. Enfocado en arquitectura de software y proyectos empresariales.
 
-Actualmente trabajo en **Agua Inmaculada** como Auxiliar de Sistemas y Desarrollador, donde gestiono infraestructura de TI y construyo herramientas internas. Anteriormente trabajé en **IT Solutions Global**, **Tejido Punto Textil** y **Corporativo MMI**.
+Actualmente trabajo en **Alcomex Transporte y Logistica** como Auxiliar de Sistemas y Desarrollador. Anteriormente trabajé en **Agua Inmaculada**, **IT Solutions Global**, **Tejido Punto Textil** y **Corporativo MMI**.
 
 ---
 
@@ -32,10 +32,11 @@ Actualmente trabajo en **Agua Inmaculada** como Auxiliar de Sistemas y Desarroll
 
 | # | Empresa | Cargo | Periodo |
 |:---:|---|---|---|
-| 01 | **Agua Inmaculada** | Auxiliar de Sistemas / Desarrollador | Nov 2015 - Presente |
-| 02 | **IT Solutions Global Incorporated** | — | Sep 2024 - Jun 2025 |
-| 03 | **Tejido Punto Textil S.A. de C.V.** | — | Feb 2024 - Jun 2024 |
-| 04 | **Corporativo MMI** | — | Feb 2021 - Ago 2023 |
+| 01 | **Alcomex Transporte y Logistica** | Auxiliar de Sistemas / Desarrollador | Sep 2025 - Presente |
+| 02 | **Agua Inmaculada** | Auxiliar de Sistemas / Desarrollador | Nov 2015 - Sep 2025 |
+| 03 | **IT Solutions Global Incorporated** | — | Sep 2024 - Jun 2025 |
+| 04 | **Tejido Punto Textil S.A. de C.V.** | — | Feb 2024 - Jun 2024 |
+| 05 | **Corporativo MMI** | — | Feb 2021 - Ago 2023 |
 
 ---
 

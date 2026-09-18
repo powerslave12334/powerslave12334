@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" width="100%" alt="Alan Guzman - Developer | Systems Administrator" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:F59E0B,100:D97706&height=220&section=header&text=ALAN%20GUZMAN&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Desarrollador%20%7C%20Auxiliar%20de%20Sistemas&descSize=14&descAlignY=55&animation=fadeIn" width="100%" />
 </p>
 
 <h1 align="center">Hola 👋, Alan Guzman</h1>
@@ -64,8 +64,15 @@ Mi objetivo es simple: escribir código limpio, construir software confiable y c
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats2.vercel.app/api?username=powerslave12334&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=C9D1D9&icon_color=F59E0B&count_private=true" width="48%" />
-  <img src="https://github-readme-stats2.vercel.app/api/top-langs/?username=powerslave12334&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=C9D1D9&langs_count=6" width="48%" />
+  <a href="https://github.com/powerslave12334">
+    <img src="https://img.shields.io/github/followers/powerslave12334?label=Followers&style=for-the-badge&logo=github&logoColor=F59E0B&color=0D1117&labelColor=F59E0B" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/powerslave12334?tab=repositories">
+    <img src="https://img.shields.io/github/repos/powerslave12334?label=Repos&style=for-the-badge&logo=github&logoColor=F59E0B&color=0D1117&labelColor=F59E0B" alt="GitHub Repos" />
+  </a>
+  <a href="https://github.com/powerslave12334">
+    <img src="https://img.shields.io/github/stars/powerslave12334?label=Stars&style=for-the-badge&logo=github&logoColor=F59E0B&color=0D1117&labelColor=F59E0B" alt="GitHub Stars" />
+  </a>
 </p>
 
 <p align="center">

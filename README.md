@@ -1,19 +1,26 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:F59E0B,100:D97706&height=220&section=header&text=ALAN%20GUZMAN&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Desarrollador%20%7C%20Auxiliar%20de%20Sistemas&descSize=14&descAlignY=55&animation=fadeIn" width="100%" />
+<div align="center">
+
+```bash
+┌──────────────────────────────────────────────────────────────────────┐
+│  alan@sysadmin:~$ whoami                                             │
+│  > Alan Guzman — Desarrollador Full Stack & Auxiliar de Sistemas     │
+│  alan@sysadmin:~$ cat stack.txt                                      │
+│  > ASP.NET Core | Laravel | SQL Server | MySQL | IIS / Linux         │
+│  alan@sysadmin:~$ echo $STATUS                                       │
+│  > Construyendo sistemas confiables con arquitectura limpia          │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+<p>
+  <a href="#-sobre-mí">Sobre mí</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-experiencia">Experiencia</a> •
+  <a href="#-proyectos">Proyectos</a> •
+  <a href="#-estadísticas">Estadísticas</a> •
+  <a href="#-conéctame">Conéctame</a>
 </p>
 
-<h1 align="center">Hola 👋, Alan Guzman</h1>
-<h3 align="center">Desarrollador / Auxiliar de Sistemas</h3>
-<p align="center"><code>Construyendo sistemas confiables con arquitectura limpia y soluciones escalables.</code></p>
-
-<p align="center">
-  <a href="#sobre-mí">Sobre mí</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#experiencia">Experiencia</a> •
-  <a href="#proyectos">Proyectos</a> •
-  <a href="#estadísticas">Estadísticas</a> •
-  <a href="#conéctame">Conéctame</a>
-</p>
+</div>
 
 ---
 
@@ -30,13 +37,13 @@ Mi objetivo es simple: escribir código limpio, construir software confiable y c
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,js,sql,dotnet,aspnet,bootstrap&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,js,python&perline=6&theme=dark" alt="Lenguajes y Frameworks" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode,postman&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode,postman&perline=6&theme=dark" alt="Sistemas y Herramientas" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,mysql,office,microsoft&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,mysql,postgres&perline=6&theme=dark" alt="Frontend y Bases de Datos" />
 </p>
 
 ---
@@ -44,20 +51,21 @@ Mi objetivo es simple: escribir código limpio, construir software confiable y c
 ## 💼 Experiencia
 
 | Empresa | Cargo | Periodo |
-|---|---|---|
+| :--- | :--- | :--- |
 | **Alcomex Transporte y Logística** | Auxiliar de Sistemas / Desarrollador | Sep 2025 - Presente |
 | **Agua Inmaculada** | Auxiliar de Sistemas / Desarrollador | Nov 2015 - Sep 2025 |
-| **IT Solutions Global Incorporated** | — | Sep 2024 - Jun 2025 |
-| **Tejido Punto Textil S.A. de C.V.** | — | Feb 2024 - Jun 2024 |
-| **Corporativo MMI** | — | Feb 2021 - Ago 2023 |
+| **IT Solutions Global Incorporated** | Technical Support Specialist | Sep 2024 - Jun 2025 |
+| **Tejido Punto Textil S.A. de C.V.** | Soporte Técnico Junior | Feb 2024 - Jun 2024 |
+| **Corporativo MMI** | Soporte Técnico / Desarrollador Junior | Feb 2021 - Ago 2023 |
 
 ---
 
 ## 📂 Proyectos
 
-| Proyecto | Descripción |
-|---|---|
-| [HELPDESK](https://github.com/powerslave12334/HELPDESK) | Sistema de gestión de tickets de soporte técnico con ASP.NET Core 8.0 y SQL Server |
+| Proyecto | Descripción | Stack |
+| :--- | :--- | :--- |
+| **[HELPDESK](https://github.com/powerslave12334/HELPDESK)** | Sistema de gestión de tickets de soporte técnico y reportes PDF de mantenimiento | `ASP.NET Core 8.0` • `SQL Server` • `IIS` |
+| **Sistema de Pensiones Vehiculares** | Plataforma web para administración de estacionamientos, tarifas y control de acceso | `Laravel` • `PHP` • `MySQL` • `Tailwind` |
 
 ---
 
@@ -93,7 +101,7 @@ Mi objetivo es simple: escribir código limpio, construir software confiable y c
   <a href="mailto:hideonlawea@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F59E0B" alt="Email" />
   </a>
-  <a href="https://wa.me/52219751770">
+  <a href="https://wa.me/522219751770">
     <img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" />
   </a>
 </p>

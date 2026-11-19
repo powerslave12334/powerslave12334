@@ -1,24 +1,17 @@
 <div align="center">
 
-```bash
-┌──────────────────────────────────────────────────────────────────────┐
-│  alan@sysadmin:~$ whoami                                             │
-│  > Alan Guzman — Desarrollador Full Stack & Auxiliar de Sistemas     │
-│  alan@sysadmin:~$ cat stack.txt                                      │
-│  > ASP.NET Core | Laravel | SQL Server | MySQL | IIS / Linux         │
-│  alan@sysadmin:~$ echo $STATUS                                       │
-│  > Construyendo sistemas confiables con arquitectura limpia          │
-└──────────────────────────────────────────────────────────────────────┘
-```
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=F59E0B&background=0D1117&center=true&vCenter=true&multiline=true&width=780&height=130&lines=alan%40sysadmin%3A~%24+whoami;%3E+Alan+Guzman+%E2%80%94+Desarrollador+Full+Stack+%26+Sistemas;alan%40sysadmin%3A~%24+cat+stack.txt;%3E+ASP.NET+Core+%7C+Laravel+%7C+SQL+Server+%7C+IIS+%2F+Linux" alt="Terminal Animada - Alan Guzman" />
+  </a>
 
-<p>
-  <a href="#-sobre-mí">Sobre mí</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-experiencia">Experiencia</a> •
-  <a href="#-proyectos">Proyectos</a> •
-  <a href="#-estadísticas">Estadísticas</a> •
-  <a href="#-conéctame">Conéctame</a>
-</p>
+  <p>
+    <a href="#-sobre-mí">Sobre mí</a> •
+    <a href="#-tech-stack">Tech Stack</a> •
+    <a href="#-experiencia">Experiencia</a> •
+    <a href="#-proyectos">Proyectos</a> •
+    <a href="#-estadísticas">Estadísticas</a> •
+    <a href="#-conéctame">Conéctame</a>
+  </p>
 
 </div>
 
@@ -37,13 +30,13 @@ Mi objetivo es simple: escribir código limpio, construir software confiable y c
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,js,python&perline=6&theme=dark" alt="Lenguajes y Frameworks" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,js,bootstrap&perline=6&theme=dark" alt="Backend y Lenguajes" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode,postman&perline=6&theme=dark" alt="Sistemas y Herramientas" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode,postman&perline=6&theme=dark" alt="Infraestructura y Herramientas" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,mysql,postgres&perline=6&theme=dark" alt="Frontend y Bases de Datos" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,mysql,postgres,azure&perline=6&theme=dark" alt="Frontend y Bases de Datos" />
 </p>
 
 ---
@@ -64,7 +57,7 @@ Mi objetivo es simple: escribir código limpio, construir software confiable y c
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| **[HELPDESK](https://github.com/powerslave12334/HELPDESK)** | Sistema de gestión de tickets de soporte técnico y reportes PDF de mantenimiento | `ASP.NET Core 8.0` • `SQL Server` • `IIS` |
+| [**HELPDESK**](https://github.com/powerslave12334/HELPDESK) | Sistema de gestión de tickets de soporte técnico y reportes PDF de mantenimiento | `ASP.NET Core 8.0` • `SQL Server` • `IIS` |
 | **Sistema de Pensiones Vehiculares** | Plataforma web para administración de estacionamientos, tarifas y control de acceso | `Laravel` • `PHP` • `MySQL` • `Tailwind` |
 
 ---
@@ -73,13 +66,13 @@ Mi objetivo es simple: escribir código limpio, construir software confiable y c
 
 <p align="center">
   <a href="https://github.com/powerslave12334">
-    <img src="https://img.shields.io/github/followers/powerslave12334?label=Followers&style=for-the-badge&logo=github&logoColor=F59E0B&color=0D1117&labelColor=F59E0B" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/powerslave12334?label=Followers&style=for-the-badge&logo=github&logoColor=F59E0B&color=0D1117&labelColor=161B22" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/powerslave12334?tab=repositories">
-    <img src="https://img.shields.io/github/repos/powerslave12334?label=Repos&style=for-the-badge&logo=github&logoColor=F59E0B&color=0D1117&labelColor=F59E0B" alt="GitHub Repos" />
+    <img src="https://img.shields.io/github/repos/powerslave12334?label=Repos&style=for-the-badge&logo=github&logoColor=F59E0B&color=0D1117&labelColor=161B22" alt="GitHub Repos" />
   </a>
   <a href="https://github.com/powerslave12334">
-    <img src="https://img.shields.io/github/stars/powerslave12334?label=Stars&style=for-the-badge&logo=github&logoColor=F59E0B&color=0D1117&labelColor=F59E0B" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/powerslave12334?label=Stars&style=for-the-badge&logo=github&logoColor=F59E0B&color=0D1117&labelColor=161B22" alt="GitHub Stars" />
   </a>
 </p>
 

@@ -80,8 +80,8 @@ Mi objetivo es simple: escribir código limpio, construir software confiable y c
 
 | Estado | Empresa | Cargo | Periodo |
 | :---: | :--- | :--- | :---: |
-| ![Activo](https://img.shields.io/badge/ACTIVO-F59E0B?style=flat-square&logoColor=0D1117) | **Alcomex Transporte y Logística** | Auxiliar de Sistemas / Desarrollador | `Sep 2025 - Presente` |
-| ![Completado](https://img.shields.io/badge/10_AÑOS-161B22?style=flat-square&color=161B22) | **Agua Inmaculada** | Auxiliar de Sistemas / Desarrollador | `Nov 2015 - Sep 2025` |
+| ![Activo](https://img.shields.io/badge/ACTIVO-F59E0B?style=flat-square&logoColor=0D1117) | **Alcomex Transporte y Logística** | Auxiliar de Sistemas / Desarrollador | `Sep 2026 - Presente` |
+| ![Completado](https://img.shields.io/badge/10_AÑOS-161B22?style=flat-square&color=161B22) | **Agua Inmaculada** | Auxiliar de Sistemas / Desarrollador | `Nov 2025 - Sep 2026` |
 | ![Completado](https://img.shields.io/badge/TI-161B22?style=flat-square&color=161B22) | **IT Solutions Global Incorporated** | Technical Support Specialist | `Sep 2024 - Jun 2025` |
 | ![Completado](https://img.shields.io/badge/TI-161B22?style=flat-square&color=161B22) | **Tejido Punto Textil S.A. de C.V.** | Soporte Técnico Junior | `Feb 2024 - Jun 2024` |
 | ![Completado](https://img.shields.io/badge/DEV%2FTI-161B22?style=flat-square&color=161B22) | **Corporativo MMI** | Soporte Técnico / Desarrollador Junior | `Feb 2021 - Ago 2023` |
